@@ -1,14 +1,583 @@
 [appendix]
-== Example
+== Participant plans 2023
 
-An AsciiDoc appendix is just a document section with a 'specialsection' title.
+Towards the end of each year, the GBIF Secretariat asks Participants to outline any work they have aligned to the priority areas identified in the GBIF’s work programme for the upcoming year. This appendix includes the plans Participants provided for 2023.
 
-Place non-essential information that supports your analysis, validates your conclusions or pursues a related point in an appendix. Examples could include: 
+[[plans-priority-1]]
+=== Priority Area 1
 
-* figures/tables/charts/graphs of results
-* statistics
-* questionnaires 
-* transcripts of interviews
-* survey results
-* maps
-* software installation instructions
+==== Amazon Cooperation Treaty Organization
+
+===== 1.1 Formation and consolidation of technical groups of Amazonian biodiversity
+
+The Organization of the https://www.gbif.org/participant/426[Amazon Cooperation Treaty Organization^] (ACTO) through the https://oraotca.org/en/home/[Amazon Regional Observatory^] (ARO) is working with the Member Countries for the formation of the Technical Group of Biodiversity that will be made up of experts from the Member Countries and whose objectives are to address aspects of the criteria related to the distribution of Amazonian species, the management of the synonymies of the species, the classifications of invasive species and the national lists of Amazonian species, including the determination of groups or lists of Amazonian species, and also the prioritization of activities based on emblematic species.
+
+Once the Technical Group is formed, it is expected that it determine its thematic priorities, prepare its work plans and start with the execution of the activities.
+
+===== 1.2 Development of pilot cases for understanding and perspectives on Amazonian diversity
+
+In coordination with the Biodiversity Technical Group, pilot cases of use and/or application will be established, using biodiversity data available in the ARO databases.
+
+The cases of application will be carried out taking into account the prioritized lists, the availability of data on the species, as well as the existing questions or concerns for the ARO and/or the group (they may be related to the prediction of ecological niches and other types of predictions). It is worth mentioning that it will also be necessary to review and/or experiment with tools and applications not necessarily available in the ARO.
+
+==== Andorra
+
+Incorporate data from participatory science and other scientific monitoring into GBIF. Launch new participatory science programmes but also set up new scientific monitoring to increase the amount of data collected.
+
+==== Argentina
+
+////
+Argentina is ready to lose its node category due to the 5-year rule as an associate. Unfortunately, the new government does not consider the activities that it supported in the past to be of interest. From the node we are seeking support, but we are still not sure. We have already scheduled a series of meetings for the return of the holidays (until March there is no activity of interest) so we still do not know what support we will be able to have from the ministries and similar institutions.
+////
+
+GBIF's 20-year history has created a strong and communicative community of data publishers. Publishers continue to publish their data even without monetary support. We have continued to contact new institutions and collections in 2022 and plan to do so in 2023. Furthermore, the GrSciColl initiative will help to include new actors.
+
+The Ministry of the Environment carries out an initiative called https://www.argentina.gob.ar/ambiente/biodiversidad/conadibio[CONADIBIO] (National Advisory Commission for the Conservation and Sustainable Use of Biological Diversity) which brings together information and various actors within society. 
+
+////
+Unfortunately, the current government does not implement the FAIR principles in a coherent way, since it insists on replicating efforts to demonstrate activities in its reports.
+////
+
+==== Australia
+
+===== Activity 1.1 Mobilisation and use of biodiversity data
+
+ALA is likely to be active in working on delivery of DNA-derived data. A postdoctoral fellow will commence work in June 2023. Her expertise and interests are in eDNA and her project will focus on how to best model upload of eDNA derived data into ALA; including how to update records as Australian DNA reference libraries continuously improve and add new species. Projects outside of ALA but allied closed will continue during 2023 - the National Barcode DNA Library that is creating a sequence library for Australian species; and the https://arga.org.au/[Australian Research Genome Atlas^] (ARGA), a project to provide pointers to sequences for Australian species in order to make them searchable and accessible. 
+
+===== Activity 1.2 Biodiversity modelling
+
+ALA will continue to work with a local project, EcoCommons, an Australian initiative to provide a platform for modelling ecological and environmental challenges.
+
+===== Activity 1.3 Open science principles
+
+ALA supports an active Indigenous Ecological Knowledge program, currently focused on language and descriptions of species. During 2023 engagement with Indigenous Ranger groups may be a new way to collaborate. Ranger groups are likely to be collecting biodiversity data in the field that could be mapped to either occurrences or events data models.
+
+==== Belgium	
+
+* Advance collaborative activities with soil, freshwater, disease vector and eDNA research communities
+* Support biodiversity data mobilization
+* Mobilize Taxonomy data on Checklists Bank / Catalog of Life
+* Improve visibility of Federal collections (BCCM, RBINS, AfricaMuseum...)
+* Atlas of Living Flanders
+* Organisation of EBR 3 (with NLBIF and LuxBIF)
+* EOSC support
+
+==== Canadensys
+
+We plan to be more visible within the local/regional/national research infrastructure and we are planning to communicate more with our community.
+
+We are starting this year with a workshop about data mobilization and data use within the GBIF community, and a lecture about Biodiversity Informatics in the ‘Science and Museum’ graduate course at McGill University. We wish to be able to present Canadensys and GBIF to other Canadian or International audiences during the year, with a conference (and possible workshop) planned at the joint conference of the https://www.beepeg2023.ca/[Canadian Botanical Association and Canadian Society for Ecology and Evolution] to be held in Winnipeg, Manitoba in June 2023.
+
+Furthermore, a partnership with the QCBS/CSBQ provides opportunity to present our work and GBIF to the students and researchers within this Québec network of biodiversity researchers. This partnership will lead to a set of documentation, based on the current GBIF documentation, that could be disseminated more broadly to Canadian institutions and organizations.
+
+Several projects we aim to accomplish in 2023:
+
+* Keep track of data use, through GBIF monitoring
+* Inform publishers about the use of the dataset they have published via Canadensys, in order to give them relevant statistics they could use in funding applications or budget committees.
+* Better communicate the services we offer, in order to become a logical solution for Canadian researchers and graduate students in need of a repository for their biodiversity datasets.
+* Publish the Database of Vascular Plant of Canada (Vascan) on the ChecklistBank and, thus, on CatalogOfLife.
+* Update older datasets that have never been updated since their first publication.
+
+==== Denmark
+
+There are several citizen science research initiatives in 2023 that will use the https://arter.dk/[Arter.dk] species portal to record species occurrences and DanBIF secures that these data are shared in GBIF as well. In this context, DanBIF also keeps the taxonbase in Arter.dk updated. This information automatically flows to GBIF. Arter.dk will in 2023 start serving occurrence information through a GIS service, which will enable researchers and managers to use GBIF data with other GIS services to do biodiversity modelling and prediction.
+
+==== France
+
+* Engagement with national research communities relating to data mobilization and use: 
+* Targeting mobilisation on specific themes
+* Following the translation of the Guide to publishing sequence-derived data in french, organising training in that thematic for the francophone audience. 
+* Support for application of data in biodiversity modelling and prediction
+* Liaising with LTER French community and French partners involved in https://bicikl-project.eu/[Biodiversity Community Integrated Knowledge Library^] (BiCKL)
+* Involvement in national policies on open science and data to implement https://www.go-fair.org/fair-principles/[FAIR] and https://www.gida-global.org/care[CARE principles]
+* The French node manager is nominated in REISO : French network of international experts organised by the ministry of research to promote open science and french policy regarding open science.
+
+==== Germany
+
+The GBIF Germany node network with several organisations involved has established agreed data pipelines for GBIF. 2023 data mobilization  will be done via involvement in the https://www.nfdi4biodiversity.org/en/[NFDI4Biodiversity] consortium as part of the German https://www.nfdi.de/[National Resaerch Data Infrastructure^] (NFDI).
+
+==== Ireland
+
+As part of the National Biodiversity Action Plan for Ireland the National Biodiversity Data Centre is to:
+
+* Update to the State of Knowledge and Key Knowledge Gaps in Ireland’s Biodiversity report as the basis for development of a national biodiversity monitoring framework by 2024
+* Produce and implement a Biodiversity Citizen Science Strategy to promote citizen engagement with both terrestrial and marine biodiversity and to develop greater awareness of the value of local biodiversity by 2024
+* Ongoing activities to support science and research for different project areas including: All Ireland Pollinator Plan; European Innovation Partnerships projects; Invasive Species, Farmland projects which will produce high quality data
+
+The node manager will also attend relevant scientific conferences to promote GBIF through appropriate communication materials and presentations.
+
+==== Madagascar
+
+Diversification of data types is among MadBIF's priorities. Data on microorganisms (fungi, bacteria), macro invertebrates will be published in 2023.
+
+==== Mexico
+
+* Respond to calls Ebbe Nielsen Challenge and Young Researchers Awards with national candidates.
+* Promote best practices using digital object identifiers DOIs.
+* Continue with participation in data model use cases.
+
+==== Netherlands
+
+===== Activity 1.1
+
+* One NLBIF funded projects mobilizes mosquite data from South America which will be published soon.
+* The NLBIF-call 2023 supports data mobilisation through small grants.
+* The NLBIF node manager has a small task in the Biodiversity Genomics Europe project and promotes the eDNA data sharing with GBIF.
+* Through the Dutch ARISE project eDNA data will be published to GBIF.
+
+===== Activity 1.2
+
+* The NLBIF node manager also act as the DiSSCo-NL National Node representative and assists Natural History Museums in the Netherlands with the mobilisation of their data to GBIF.
+* The NLBIF node manager is invloved in the https://www.mambo-project.eu/[Modern Approaches to the Monitoring of Biodiversity^] (EU MAMBO) and https://biodiversitygenomics.eu/[Biodiversity Genomics Europe^] (EU BGE) projects and aims to publish project derived biodiversity data to GBIF.
+
+===== Activity 1.3
+
+The NLBIF node manager is a GBIF open data ambassador. NLBIF's host institute, Naturalis Biodiversity Center, promotes open science as well.
+
+==== New Zealand
+
+As part of GBIF NZ strategic plan and roadmap we aim to work with researchers and collections to inventory primary datasets, identify gaps in coverage and prioritise essential data for mobilisation.
+
+==== Nordic Genetic Resource Center
+
+* Having a goal to implement registering of DOIs to our MCPD data and relay it to the GBIF node.
+* Secondary goal to implement a dataset for https://www.croptrust.org/work/svalbard-global-seed-vault/[Svalbard Global Seed Vault], when more depositors starting to use DOI for their accessions.
+
+==== Sweden
+
+As we are seeing several synergy effects between GBIF Sweden and SBDI and have joint work tasks and deliverables, some of the planned activities reported here also include parts of SBDI (of which GBIF Sweden is a part since 2021). This is indicated for respective planned task.
+
+* Encourage participation in testing the new data model, as we have several complex (sequence based and eDNA monitoring) datasets that could be set up as a use case.
+* Contribute to updating current guidance on publishing DNA-derived data – SBDI Molecular group who are co-authors.
+* Focus on mobilizing molecular data and setting up data pipelines for e.g. Center for Genetic Identification (CGI at the Swedish museum of Natural History). 
+* Interested in contributing to documentation and discussions on node level guidance on ILK.
+* Collaborate with BiCIKL , Species 2000 / Catalogue of Life  in developing recommendations for how infrastructures could report usage and impact in a more consistent way.
+* Author a conference proceedings paper on the power and potential of biodiversity databases.
+* Send in and coordinate a research infrastructure proposal to the Swedish Research Council for funding of SBDI and GBIF Sweden for the period 2025-2028.
+* Engagement with national research communities relating to data mobilization and use. We have several research and monitoring datsets in the pipeline to be published (e.g. a research and monitoring dataset on mosquitoes around Dalälven).
+* Participation in several national events, workshops and conferences - starting with the Swedish Oikos conference (Jan 31- Feb 2). Two SBDI/GBIF workshops are planned; 1) How to publish sequence based data to SBDI/GBIF, and 2) Distribution modelling of invasive species.
+
+==== Symbiota Support Hub
+
+* Continue to engage the community through regular https://symbiota.org/symbiota-support-group/[Symbiota Support Group meetings]
+* Conduct Portal Campaigns for Symbiota portals that have not yet been engaged
+* Develop of a robust Portal Manager Guide on our Symbiota Docs documentation website
+* Continue to lead Symbiota Support Group webinars to increase capacity of Symbiota users
+* Additional Portal Campaigns, including community-building and capacitation work, data quality and mobilization training
+* Continue Help Desk support
+* Continue to translate Symbiota code files and documentation site into Spanish, French, and other languages as needed
+* Continue to conduct workshops and training webinars for Latin American countries
+* Continue to support Gabon Biodiversity and Guatemala Biodiversity portals
+* Engage Panamanian collections communities through Panamabiota portal
+* Engage Asian collections to contribute to a new portal launched by the All Asia herbarium-based Thematic Collections Network
+* Continued curation of Symbiota Docs website and YouTube channel
+* Increase translation of Symbiota Docs website
+
+==== United Kingdom
+
+Kew and Natural History Museum staff will be involved in building the case for registration of plant names in the run up to the International Botanical Congress in Madrid 2024.  A beta registration tool for the International Plant Names Index is currently being tested
+
+==== United States
+
+* Lead an Earth Science Information Partners Cluster to promote the use of standards, e.g. Darwin Core, for biological observation data.
+* Promote the use of the DNA Derived Data extension in US eDNA forums.
+* Contribute to a session at Ecological Society of America annual meeting with key biodiversity data entities on GBIF4Ecology.
+
+[[plans-priority-2]]
+=== Priority Area 2
+
+==== Amazon Cooperation Treaty Organization
+
+===== 2.1 Dissemination of results of the "Rapid Assessment of Biological Diversity and Ecosystem Services in the Amazon Basin/Region"
+
+The https://www.gbif.org/participant/426[ACTO] in connection with the ARO in 2023 will develop different activities for the dissemination of the results of the study of the ""Rapid Assessment of Biological Diversity and Ecosystem Services in the Amazon Basin/Region"" with the institutions of the different Member Countries, with the objective of strengthening the scientific-regulatory interface at the national level, and at the same time enabling the formulation of measures aimed at the conservation of biodiversity in an articulated manner, with a cross-border vision and/or on a regional scale.
+
+==== Andorra
+
+Continue and advance collaborative activities with public administrations to publish their data on the GBIF portal.
+
+==== Argentina
+
+Both the focal point for the https://www.cbd.int/[CBD] and for https://www.ipbes.net/[IPBES] are not found either in the Ministry of Science or the Ministry of the Environment, but rather in the Ministry of Foreign Affairs. I have obtained the contact of the person in charge and we hope to meet him in March.
+
+==== Australia
+
+ALA's most relevant work, in addition to advocacy to Australian government regarding international policy commitments, will be to develop standardised data capture tools for data capture in the field. ALA's collaborations with Indigenous Ranger groups is likely to be the catalyst for the development of new tools.  
+
+==== Belgium
+
+* Riparias
+* Engaging BE experts in IPBES workplan
+* IPBES communication products targetted at BE stakeholders 
+* IUCN Belgium Day
+* Biodiversa+ activities
+* Biodivclim
+* Biodivscen
+
+==== Canadensys
+
+Discussion about a Canadian GeoBON node is ongoing and the https://www.gbif.org/participant/365[Canadensys] team is included in the discussion. This potential partnership is in direct alignment with the 2023 GBIF tasks for this priority.
+
+We currently don’t have the human resources to provide biodiversity reports that could be used by Canadian policy makers, but we hope that the data published through Canadensys will be used by reporting agencies.
+
+In order to present a more comprehensive picture of Canadian biodiversity, we would like to explore the possibility to publish datasets from the private sectors. This could unlock a vast amount of data both useful for researchers and policy makers.
+
+An ongoing discussion with Agriculture and Agri-Food Canada, about a partnership with the Canadensys network, could also be the starting point for a more cohesive approach for collating data and collaboration amongst Canadian Natural History collections.
+
+==== Denmark
+
+DanBIF is actively involved in increasing the awareness of the importance and strength in the use and provision of data to GBIF towards the industry and financial sector.  
+
+==== France
+
+Continue liaising with CHM focal point and the french BON of GEOBON (lead by PNDB national pole of biodiversity data from the research ministry and SIB Information system for biodiversity from ecology ministry)
+
+* Starting liaising with CITES and RAMSAR more closely
+* Involvement in EU projects such as Biodiversa+ (pilot use-case on DWC and monitoring data) and DiSSco (e.g. : contribution in training work package in https://www.dissco.eu/dissco-prepare/[DiSSCo prepare])
+* Engagement with the business and finance sectors to encourage sharing and use of biodiversity data : https://www.afd.fr/en/ressources/data4nature-initiative[Data4Nature] (AFD), DEPOBIO (legal repository of observational data from impact studies for private sector), international private companies based in France
+
+==== Ireland
+
+The 4th National Biodiversity Action Plan (NBAP) for Ireland is currently under development and will set out the national biodiversity agenda for 2023-2027 in line with commitments under the Convention on Biological Diversity. 
+
+* The National Biodiversity Data Centre will play a role in many aspects of the NBAP including developing a robust monitoring and evaluation framework to track progress and continue to work in conjunction with partners to strengthen the science base and enhance data accessibility. 
+* The Data Centre will also ensure that Ireland increases the quantity and quality of its contributions to European and international biodiversity data hubs and networks such as the GBIF and the European Environment Agency
+
+The National Biodiversity Data Centre also provides the information, data and reporting services on behalf of the State Agency with implementation of the EU Regulation on Invasive Alien Species. 
+
+==== Madagascar
+
+The synergy between the entities working on biodiversity (CHM Madagascar, https://www.ipbes.net/[IPBES]...) and MadBIF will be reinforced 
+
+==== Mexico
+
+Increase number of occurrence records, checklist and national publishers.
+
+==== Netherlands
+
+===== Activity 2.1
+
+* NLBIF aims to increase the relevance of Dutch biodiversity data for CBD indicators through engagement with relevant stakeholders in the Netherlands.
+* NLBIF aims to establish connections with the national focal points for the CBD, CMS, CITES and Ramsar.
+
+===== Activity 2.2
+
+NLBIF aims to link Dutch data publishers that hold marine biodiversity data that is currently shared through the https://www.informatiehuismarien.nl/uk/[Informatiehuis Marien] to GBIF.
+
+===== Activity 2.3
+
+* NLBIF is working on mobilising species list with protected species according Dutch and EU laws to COL CheckListBank to increase the policy relevance of GBIF mediated biodiversity data.
+* NLBIF aims to become active in mobilising data from Environmental Impact Assessment that are commisioned by governmental organisations and financial institutions.
+* NLBIF collaborates on a Biodiversa+ application which currently is pending decision.
+
+===== Activity 2.4
+
+NLBIF is trying to establish connections with Dutch Investment Companies to mobilise biodiversity data under the implementation of the Equator Principles.
+
+==== New Zealand
+
+Support for implementation of national commitments under the https://www.cbd.int/[CBD](Convention on Biological Diversity). We are engaging with NZ central government agencies to communicate benefits of GBIF infrastructure and promote the benefit of data mobilisation to GBIF for NZ contribution to post-2020 Global Biodiversity Framework.
+
+==== Sweden
+
+* Explore possible partnerships and funding opportunities for financing the planned BIECA-project.
+* Continue to build the SBDI network in Sweden and promote GBIF within this community.
+
+==== Symbiota Support Hub
+
+* Continue schema development to incorporate indexing of agents
+* Produce mapping of Symbiota schema to new GBIF data model
+* Continue development of taxonomy module
+* Continue Help Desk support and digitization workflow assistance
+* Continue to curate GRSciColl as part of Portal Campaigns, including adding Symbiota UUIDs to collections
+
+==== United Kingdom
+
+National Biodiversity Network have started a trial with the Environment Agency whereby consultants contracted by the EA under their EcoServices Framework must share their species records directly with the NBN Atlas, and then on to GBIF. 
+
+==== United States
+
+* Support GBIF in developing a strategy for marine biodiversity through continued partnership with OBIS.
+* Serve as a possible liaison between GBIF and the GEO BON Marine Biodiversity Observation Network.
+* Increase coordination across the U.S. related to policy and relevant new partnerships.
+
+[[plans-priority-3]]
+=== Priority Area 3
+
+==== Amazon Cooperation Treaty Organization
+
+===== 3.1 Identification, homogenization and publication of databases from Bolivia, Venezuela and Guyana
+
+This activity will be focused on working with the institutions of Bolivia, Venezuela and Guyana which have databases related to biodiversity, and which are expected to be loaded in the IPT of the ARO (the load includes homogenization). Likewise, the next step will be the connection of the IPT of the ARO with the GBIF to send the data. It is important to indicate that the data that is transferred will already be regionalized to the Amazon territory.
+
+===== 3.2 Integration of Member countries databases to the ARO (Brazil, Colombia, Ecuador, Peru, Suriname)
+
+This activity comprises a set of actions that aim to integrate into the ARO the various databases that the Member countries have been sharing with the GBIF. These data will not be part of the ARO's IPT (it would be replicating data without meaning), however, it will be part of the database and reports of the ARO's Biodiversity Module. In this case it will be necessary to apply the regionalization filter to the Amazonian territory.
+
+===== 3.3 Development and launch of tools related to the management and dissemination of biodiversity data
+
+The ARO plans to improve, update and launch the following tools in the first quarter of 2023, in the context of biodiversity data management:
+
+* Forests module (improvement and launch)
+* Biodiversity Module (improvement)
+* CITES Species Trade Module (data update)
+* Computerized Regional Platform for the promotion, promotion and interconnection of actors and markets associated with micro, small and medium-sized companies linked to the use of natural products that incorporate species of Amazonian biodiversity, with a focus on CITES species, of the Member Countries of ACTO (launch)
+
+The improvements are related to the development of software tools and uploading of new content related to the CITES Forests and Species modules.
+
+==== Andorra
+
+To make the GBIF portal more widely accessible to biodiversity managers in Andorra. To do this we intend to collaborate with neighbouring nodes, whose knowledge and experience will be invaluable.
+
+==== Argentina
+
+It is planned to continue with the data publication activities and the promotion of their reuse. It will continue to participate with other national nodes and institutions in CESP and similar projects. As a previous regional representative, I maintain communication with institutions from countries that do not yet have a node. Although I have put them in contact with the current regional representatives, I maintain frequent contact and respond to their queries. In the same way, with nodes formed, but without activity (like Peru) I maintain contact by answering queries to the members of the node and one or another potential publisher.
+
+////
+Unfortunately, the ALA portal in Argentina was taken offline by order of the current Undersecretary, without even consulting the node.
+////
+
+==== Australia
+
+===== Activity 3.2 Support and strengthen GBIF Nodes
+
+ALA will continue to provide active support to the Living Atlases as a sister service to the hosted portals function. 
+
+===== Activity 3.4 Develop capacity and skills
+
+ALA will continue to develop training modules applicable to local conditions. A new training and outreach coordinator will commence early in 2023 and she will be active in developing training materials, running webinars, and identifying future needs.
+
+===== Ongoing activities
+
+Australia will host the https://gb30.gbif.org/[GB30 and biennial Global nodes meetings] in October this year, in Canberra. This will provide a valuable opportunity to introduce international delegates to Australia and we will be very pleased to offer the opportunity to extend networks and support GBIF nodes and partners. GB30 and the Global nodes meeting will be held in the week after https://www.tdwg.org/conferences/2023/[TDWG2023], also planned for Australia. We hope that delegates will take the opportunity to make the  most of long flights and participate fully in both meetings. 
+
+==== Belgium
+
+* Coordinate the landscape of biodiversity-related initiatives (BIF)
+* Mobilize training and workshops
+* Pilot on Atlas of Living Flanders
+* Possible a first hosted portal(s) for Belgium
+* Act as mentor/trainer in GBIF network
+* GBIF cloud IPT  helpdesk for Europe and Asia
+
+==== Canadensys
+
+https://community.canadensys.net/publication[Our bi-annual publication tracking] clearly shows a bias toward plant collections, even though several important entomological and zoological collections are curated in Canada. We will work towards reducing this gap.
+
+Furthermore, a quick analysis of the distribution map of occurrences available through Canadensys and other partners demonstrates geographic data gaps, with data points biased towards the southern part of Canada. This issue cannot be solved entirely by us, and is linked to collection efforts, but we can target institutions that have been collecting in this under sampled regions and share these important metadata more broadly to the community.
+
+==== France
+
+* Training and engagement to strengthen and expand national data publication and use is a pillar of our ongoing strategy.
+* As NSG chair, french node manager will contribute to organize training sessions at the https://gb30.gbif.org/programme[2023 Global Nodes Meeting] addressing needs raised by the nodes committee
+* Collaboration with other nodes and partners to support participation by more countries in GBIF
+
+Finalizing our contribution in 2 https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[BID projects] and https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[CESP]:
+
+* Mobilization and strengthening of biodiversity data supporting sustainable development in Côte d'Ivoire, BID national project lead by Ivory Cost 
+** Progress towards a regional data platform of West and Central African herbaria, BID regional  project lead by Togo
+
+CESP mentoring Armenia (new data connected to GBIF)
+
+* Development or enhancement of OpenObs, french data portal on species observation data build on Living Atlasesand promotion of hosted portals (considered for GBIF France website) 
+* Following of TDWG groups and standards
+
+==== Germany
+
+Collaboration with Czech Republic partners interested in GBIF and Kenya GBIF node
+Development of a Hosted Portal within the NFDi4Biodiversity scope (data from Germany) will be continued.
+
+==== Ireland
+
+The National Biodiversity Data Centre will continue to publish all open access data automatically to GBIF. The Data Centre will also work to publish some datasets through the IPT to meet specific needs of dataset providers (i.e., different data and license types).
+
+Continue to engage with data providers (e.g., government bodies, agencies and museums) to strengthen and expand national data publication and use.
+
+One target within Ireland's National Biodiversity Action Plan is that from 2024 a system will be in place to facilitate enhanced contributions to EU and international data hubs and networks.
+
+==== Madagascar
+
+Data providers will again be asked to publish. Capacity building training (data mobilization, data cleaning, data use and publication) will be organised with the support of a mentor based in Madagascar (Mr Tsiky Rabetrano).
+
+Collaboration with other nodes (in Africa, or France) is also envisaged.
+
+==== Mexico
+
+Continue with training and engagement to strengthen and expand national data publication and use.
+
+==== Netherlands
+
+===== Activity 3.1
+
+Report on the economic evaluation of the GBIF network at the annual NLBIF stakeholder event which is scheduled for march 7.
+
+===== Activity 3.2
+
+Within the Dutch landscape there is an urgent need for guidance on publishing sensitive species data.
+
+===== Activity 3.4
+
+* The Dutch node aims to continue the collaboration with Indonesian partners in the https://www.gbif.org/programme/82629/bifa-biodiversity-information-fund-for-asia[BIFA programme] and with stakeholders from the Dutch overseas areas in the Caraiben in the https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[BID programme].
+* Engage with partners in the Biodiversity Genomics Europe project and the Dutch ARISE project on the training on the mobilisation of DNA derived data to GBIF."
+
+==== New Zealand
+
+Continue to provided support and guidance to existing and new data providers and interested parties at online meetings and via NZ Hosted Portal (https://www.gbif.org.nz), including GBIF data publication, quality assurance standard and technical requirements (e.g IPT). Attend Global Nodes meeting and work with other nodes to build capability and seek opportunities to build on and extend the NZ Hosted Portal including consideration of an NZ Living Atlas.
+
+==== Sweden
+
+* Training and engagement to strengthen and expand national data publication and use. SBDI/GBIF Sweden are planning to have several workshops on how to publish sequence based data as well as sample based data and how to update currently published occurrence datasets to fit this format. 
+* Explore possible partnerships and funding opportunities for financing the planned BIECA-project.
+* Continue work on stabilizing a dockerized version of the LA infrastructure for SBDI available at https://biodiversitydata.se. Implement the Pipelines module to this system.
+* Investigate the interest and possibility of setting up a hosted portal for the Sámpi region together with community partners. Sápmi covers part of Sweden, Norway, Finland and Russia. 
+
+==== Symbiota Support Hub
+
+* Provide georeferencing assistance through duplicate georeference harvesting
+* Continue/finalize API development
+* Develop tools for importing and exporting extended data (e.g., references, genetic data, associated occurrences, duplicates)
+* Continue outreach during portal campaigns
+* Continue to rework broken data publishing pipelines during portal campaigns"
+
+==== United Kingdom
+
+DiSSCo UK is developing a national data infrastructure that will integrate the UK’s natural science collections data and make this accessible to all. Part of this infrastructure will be completed in collaboration with GBIF, who are hosting the UK data portal for life science collections. This builds off of an existing GBIF infrastructure that is widely used by the scientific community, with data for millions of UK specimens already available via GBIF. The national portal will aggregate collections data uploaded to GBIF from UK institutions with a GRSciColl (The Global Registry of Scientific Collections) entry
+
+==== United States
+
+* Lead a monthly office hour support session to assist marine data providers with aligning their data to Darwin Core.
+* Lead at least one biological data mobilization workshop.
+* Contribute to GBIF North America coordination by serving on the GBIF North America Steering Committee.
+* Support US data providers / publishers with sharing their data by providing data reviews and access to the GBIF-US IPT.
+* Share findings from the economic valuation with the U.S. community.
+* More coordinated outreach opportunities across the U.S. community.
+
+[[plans-priority-4]]
+=== Priority Area 4
+
+==== Andorra
+
+Complete the migration to Google Cloud Platform, set up a new landing page.
+
+==== Amazon Cooperation Treaty Organization
+
+===== 4.1 Development of capacities in the use of tools for the digitization of biodiversity data and integration with the GBIF
+
+ACTO will organize at least 2 workshops (virtual or face-to-face) aimed mainly at representatives of Member countries that are not part of GBIF on topics for which GBIF already has sufficient materials such as: data digitization, data mobilization, the use of IPT and data sharing, as well as the use of data for decision making. For training events, the ARO will coordinate to have the support of GBIF (i.e., other nodes or GBIF staff)
+
+==== Argentina
+
+As mentioned in priority 1, we are reformulating (together with the nodes in Ecuador and Guatemala) a https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[CESP project] to increase and improve the records of institutions and collections in our respective countries.
+
+==== Australia
+
+===== Activity 4.1 Robustness of GBIF infrastructure
+
+ALA and GBIF have developed and active and collaborative working relationship over the past few years and this will continue in 2023. ALA will continue to collaborate on projects related to the unified data model, and continue to develop the Events system built during 2022. 
+
+===== Activity 4.2 Services for data publishers and users
+
+A significant piece of work planned for 2023 is to update, better integrate and fully revise the taxonomic backbone used by ALA and the code underlying how it is built. New requirements have emerged from the Biosecurity and Restricted Access Species projects that mean that the taxonomic backbone must be much more rigorously built, governed and maintained than it has been in the past. A subject matter expert has been engaged to lead the project and an additional developer is being recruited. We hope to form an active collaboration with the Catalogue of Life and with GBIF to ensure that species found in Australia are represented accurately in the taxonomic schema.
+
+===== Activity 4.3 Enhance features and capabilities
+
+ALA will continue work on the prototype implementation of the Events-based presentation of data. ALA will also actively participate in the further development of the unified data model and how it might be implemented for exemplar data such as genomic data, eDNA and machine observations.
+
+===== Activity 4.4 Drive data standards development
+
+An ALA staff member is now the Chair of the TDWG Executive during 2023-2024 so this will encourage a standards-focus for the ALA team.
+
+==== Belgium
+
+* Maintain GBIF Registry and https://www.gbif.org/grscicoll[GRSciColl]
+* Support for the unified model (use cases)
+
+==== Canadensys
+
+Canadensys is currently using a Living Atlases framework to allow users to navigate through data, collections, and datasets, while relying on an IPT for data publication. Our informatics framework is hosted on the Alliance Canada cloud service, which is supporting us for a second three-year period (2021-2024). 
+
+This infrastructure has allowed us to experiment new features, to offer new services to our users and to be part of the inspiring LA community.
+
+However, limited funding and human resources oblige us to find solutions requiring less technical skills, both in term of infrastructure and human resources. For this reason, our plan for 2023 is to submit to GBIF a project for a Canadensys Hosted Portal, in association with the Canadian GBIF node (CBIF) based at Agriculture and Agri-Foods Canada. This transition to a solution which will likely require less time and technical resources will allow us to  better focus our services to data publishers and especially to natural history collections. We are planning to revise our list of Canadian Natural History Collections and to offer our services to support digitization and publication of datasets. This collection checklist would be useful for the revision of the Canadian collections listed in https://www.gbif.org/grscicoll[GRSciColl].
+
+We are planning to update the Canadensys IPT to the most recent package during 2023 and to update data standards used within datasets when required.
+
+==== Denmark
+
+DanBIF and DaSSCo will continue to improve the content in GRSciColl regarding Danish natural history collection. DanBIF is planning to increase its IT infrastructure by adding an additional IPT and media server.
+
+==== France
+
+* Update of TAXREF,  national checklist
+* Engagement with national collection communities to improve content of the Global Registry of Scientific Collections https://www.gbif.org/grscicoll[GRSciColl]
+* Engagement with the diversification of the GBIF data model to address the needs of different national data-holding communities
+* Improvements to national informatics infrastructure : maintaining of OpenObs, french observational data portal based on LA portals
+* Continuing contributing of develoment of IPT
+
+==== Germany
+
+There are plans to improuve the content od https://www.gbif.org/grscicoll[GRSciColl] for all organisations (data publishers)  of the GBIF Germany node network
+
+The national informatics infrastructure might be improuved through new engagements by national funders supporting the adaption of the GBIF data model to the needs of national data-holding communities
+
+==== Ireland
+
+* Maintain and ensure continued success of Ireland’s biodiversity mapping portal ‘Biodiversity Maps’
+* Allocate time to Global Registry of Scientific Collections (GRSciColl) to ensure dataset providers are represented
+
+==== Madagascar
+
+Search for funding for the acquisition of powerful computer equipment
+Improve data quality and diversify data for users (researchers, policy makers, students, NGOs etc...)
+
+==== Mexico
+
+* Continue with training and data quality review in own datasets and data providers datasets.
+* Continue with collaboration on translation of IPT manual. Continue with participation in Data model use cases and to review and synchronize the Collections Catalogue with the GRSciColl.
+
+==== Netherlands
+
+===== Activity 4.2
+
+NLBIF will continue to curate the GRSciColl records from Dutch DiSSCo partners and assist in the further mobilisation of specimen derived data to GBIF.
+
+===== Activity 4.3
+
+NLBIF is looking forward to:
+
+* the implementation of the Latimer Core.
+* the material catalogue to capture specimen information.
+* annotation services.
+
+===== Activity 4.4
+
+NLBIF is looking forward to upload species lists to COL CheckListBank using the GBIF IPT."
+
+==== New Zealand
+
+Improvements to NZ Hosted Portal infrastructure with implementation of IPT. New Zealand provides a continuously updated national species checklist mobilised through the New Zealand Organisms Register (NZOR) project and we would like to provide this service via GBIF and the COL.
+
+==== Sweden
+
+* Engage with national collection communities to improve content of the Global Registry of Scientific Collections (GRSciColl), and clean-up legacy datasets with erroneous publishers.
+* Update and remake the front-end and UX/UI for www.gbif.se. 
+* Participation and engagement in developing data standards and best practices; participate in https://www.tdwg.org/conferences/2023/[TDWG].
+* Apply for research infrastructure funding for the period 2025-2028.
+* Continue to build the SBDI network in Sweden and promote GBIF within this community.
+
+==== Symbiota Support Hub
+
+* Continue data quality assessments during portal campaigns
+* Continue to provide data cleaning and curation support during portal campaigns
+* Continue to provide training during Symbiota Support Group webinars and through documentation resources
+
+==== United Kingdom
+
+GBIF's GRSciColl will be integrated in the  DiSSCo UK portal and act as a one-stop registry for institutional information on natural science collections. Current DiSSCo UK work is focussed on ensuring all UK natural science collections are represented on GRSciColl, enabling their data to be included in the portal. The use of GRSciColl as an aggregator of institutional information will improve the visibility of UK collections, open up opportunities for collaboration and support, and enhance data mobilisation efforts.
+
+NBN Trust have supported NatureMetrics by formatting the Forestry England eDNA-derived dataset as a Darwin Core Archive, so that NM understand the process and can use it as a template for their other clients.
+
+==== United States
+
+* Lead an OBIS project team to explore early adoption and testing of the new data model to assess how well it works for OBIS community data, noting and sharing back to the data model team any problems encountered, suggestions for improvements, and feasibility of uptake.
+* Increase engagement in hosted portal process

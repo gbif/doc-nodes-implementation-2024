@@ -1,0 +1,19 @@
+[sidebar]
+This strategy has been prepared with the Nodes Steering Group in December 2022 to align with GBIF’s new https://www.gbif.org/document/50lI7Bxn2p1vRgpbs7aXaT/[strategic framework^]. Following comments from the nodes, this final version was approved by the Nodes Steering Group during the mid-term meetings in March 2023.
+
+== Rationale
+
+Since the 15th Global Nodes Meeting (October 2019 at GB26 in Leiden), the Nodes Committee, led by the Nodes Steering Group (NSG), has identified priority objectives to guide the global efforts of the nodes. 
+
+These nodes strategies are implemented by the Nodes Committee with the support of the Secretariat under the supervision of the NSG. They also provide a framework for discussions at the Global Nodes Meetings. At the end of the year, the NSG will assess the progress towards these strategic objectives. 
+
+The global objectives are aligned with GBIF’s strategic framework and implementation plan. Regions are welcome to add their own objectives. Different regions might have different approaches and activities to reach the common strategic objectives. For this reason, the activities under each objective should be considered as a non-exhaustive list of suggestions that might differ regionally. 
+
+== The strategic objectives
+
+.	<<#1-engage-research-communities-for-data-mobilization-and-use,Engage research communities for data mobilization and use>>
+.	<<#2-support-national-biodiversity-commitments-and-the-science-policy-interface,Support national biodiversity commitments and the science-policy interface>>
+.	<<#3-promote-open-biodiversity-data-approaches-within-the-business-and-finance-sectors,Promote open biodiversity data approaches within the business and finance sectors>>
+.	<<#4-develop-capacity-within-regional-communities-of-practice,Develop capacity within regional communities of practice>>
+.	<<#5-strengthen-support-services-for-collection-communities,Strengthen support services for collection communities>>
+.	<<#6-contribute-to-data-model-enhancements,Contribute to data model enhancements>>
