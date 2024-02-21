@@ -2,7 +2,7 @@
 
 === Suggested citation
 
-GBIF Nodes Steering Group (2024) GBIF Nodes Implementation Plan. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-foo
+GBIF Nodes Steering Group (2024) GBIF Nodes Implementation Plan. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-ybx9-mw27
 
 === Licence
 
@@ -10,7 +10,7 @@ The document _GBIF Nodes Implementation Plan 2024_ is licensed under https://cre
 
 === Persistent URI
 
-https://doi.org/10.35035/doc-foo
+https://doi.org/10.35035/doc-ybx9-mw27
 
 === Document control
 
