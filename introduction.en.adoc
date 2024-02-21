@@ -1,5 +1,5 @@
 [sidebar]
-This strategy has been prepared with the Nodes Steering Group in December 2022 to align with GBIF’s new https://www.gbif.org/document/50lI7Bxn2p1vRgpbs7aXaT/[strategic framework^]. Following comments from the nodes, this final version was approved by the Nodes Steering Group during the mid-term meetings in March 2023.
+The 2024 Nodes Implementation Plan has been prepared with the https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group^] in December 2023 and approved in February 2024. It is an update to the https://doi.org/10.35035/doc-091z-ck64[2023 Nodes Implementation Plan^] and aligns with https://www.gbif.org/document/50lI7Bxn2p1vRgpbs7aXaT/[GBIF Strategic Framework 2023-2027^]. It provides a framework for discussions at the Regional Nodes Meetings.
 
 == Rationale
 
