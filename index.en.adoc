@@ -1,4 +1,4 @@
-= GBIF Nodes Implementation Plan 2023
+= GBIF Nodes Implementation Plan 2024
 GBIF Nodes Steering Group
 :toc: left
 :toclevels: 3
