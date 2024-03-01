@@ -247,7 +247,7 @@ Publishing DNA-derived data.
 
 In 2024, Uzbekistan will host a GBIF workshop for the first time with the participation of scientists from Central Asia and other surrounding countries. More than 300,000 georeferenced points will be uploaded to GBIF.
 
-[[wfcc]]
+[[wfcc-1]]
 ==== World Federation for Culture Collections
 
 Improving biodiversity evidence for scientific research and understanding is long overdue and it is the right action to be taken.
@@ -264,7 +264,7 @@ Mobilise data on bacteria and fungul communities in forest and cropland soils in
 * Continue and advance collaborative activities with public administrations to publish their data on the GBIF portal.
 * Collaboration with public administrations, and in particular the Andorran government, has been strengthened and a common database is being created to feed them in order to publish their data on the GBIF portal.
 
-
+[[acb-2]] 
 ==== ASEAN Centre for Biodiversity
 
 Organized a Bioland Tool workshop for 3 ASEAN Countries with the support from CHM CBD secretariat.
@@ -475,6 +475,7 @@ Contributions to the organization and participation in Experts' Meeting: GBIF in
 
 As part of the GBIF, Uzbekistan expanded international relations with partner countries, opened access to national biogeographic information, participated in a number of major international seminars and conferences on biodiversity conservation, invasive alien species, disclosure of business information and accessibility of data, information and knowledge, as well as expanded expanded regional mechanisms to support funding and capacity pipelines.
 
+[[wfcc-2]]
 ==== World Federation for Culture Collections
 
 Again, WFCC congratulates GBIF for the progress made in 2023 and reports presented in Canberra
@@ -491,6 +492,7 @@ Supported national biodiversity commitments by participating in meetings of the 
 - To make the GBIF portal more widely accessible to biodiversity managers in Andorra. To do this we intend to collaborate with neighbouring nodes, , whose knowledge and experience will be invaluable.
 - A migration of the GBIF.ad portal to the Google Cloud Platform has been initiated, as well as corrections to the portal so that it can be part of the ALA community. All of this has delayed the objective of making the GBIF.ad portal widely accessible to biodiversity managers in Andorra.
 
+[[acb-3]]
 ==== ASEAN Centre for Biodiversity
 
 1. Various capacity building towards targeted protected areas in Southeast Asia.
@@ -529,6 +531,7 @@ Not achieved or postponed:
 
 Academic capacity building of students in the master program of biodiversity informatics was successfully achieved along with professional capacity building to non academic partners.
 
+[[bhl-3]]
 ==== Biodiversity Heritage Library
 
 BHL participates in node activities and has hired a Data Manager to represent as Node Manager  in 2021 and Head of Delegation was appointed in 2022.
@@ -716,6 +719,7 @@ Development of national workshops to present the initiative, the national portal
 
 In 2023, Uzbekistan became a leader in the GBIF regional network (Central Asia), thanks to intensified efforts to strengthen partnerships, expand the information base uploaded to GBIF and attract new, especially young scientists from both scientific institutes and regional universities
 
+[[wfcc-3]]
 ==== World Federation for Culture Collections
 
 Again, WFCC congratulates GBIF for the progress made in 2023 and reports presented in Canberra
@@ -734,6 +738,7 @@ Complete the migration to Google Cloud Platform, set up a new landing page.
 A migration of the GBIF.ad portal to Google Cloud Platform has been initiated, as well as corrections to the portal so that it can be part of the ALA community. This part could not be completed due to a lack of available staff.
 Collaboration has been initiated with the government of Andorra and the creation of a common biodiversity database is underway."
 
+[[acb-4]]
 ==== ASEAN Centre for Biodiversity 
 
 1. Purchased new server to host our IPT and other data related repository
@@ -886,7 +891,6 @@ SANBI-GBIF implements a hosted portal, and has supported the new data model thro
 
 ==== Spain
 
-
 - We have been working hard re-working our metadata infrastructure, with which we manage a number of core items in our activity: datasets, with all its metadata elements, publication events and quality indicators, the national registry of biodiversity collections and datasets (connected to GRSciColl), training events, news, etc.
 - We have been working on our implementation of the ALA's spatial portal. Not yet ready for prime time, but mostly working: [https://espacial.gbif.es/?lang=es^]
 - We are actively involved in standard development through our participation in TDWG. Currently, we are leading two standard developments:
@@ -904,6 +908,7 @@ Engage with national collection communities to improve content of the Global Reg
 - Apply for research infrastructure funding for the period 2025-2028.
 - Continue to build the SBDI network in Sweden and promote GBIF within this community. 
 
+[[tajikistan-4]]
 ==== Tajikistan, Republic 
 
 One thing I didn't do in this year I wanna do it in 2024.
@@ -927,6 +932,7 @@ One thing I didn't do in this year I wanna do it in 2024.
 
 In Uzbekistan, a permanent GBIF group has been formed on the basis of the Institute of Botany of the Uzbekistan Academy of Sciences, which is the basis of the national infrastructure and information products. In addition, the work activities of this group support and develop the established infrastructure for the promotion of knowledge related to the plant diversity of Uzbekistan.
 
+[[wfcc-4]]
 ==== World Federation for Culture Collections
 
 Again, WFCC congratulates GBIF for the progress made in 2023 and reports presented in Canberra
