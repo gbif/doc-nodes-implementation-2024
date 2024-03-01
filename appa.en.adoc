@@ -282,6 +282,7 @@ Achieved in 2023:
 * Biodiversa  activities
 
 Not achieved or postponed:
+
 * Engaging BE experts in IPBES workplan
 * IUCN Belgium Day
 * Biodivclim
@@ -389,7 +390,7 @@ Développer le partenariat avec des institutions publiques et privées. Prospect
 - Update 975 datasets, mainly due to taxonomy update and geographic validation processes.
 - National checklist "Lista de las especies de Ranunculaceae con distribución en México" and "Lista de las especies de Brassicaceae con distribución en México" were published.
 - New regional checklist "Lista de especies de abejas nativas del Parque Nacional Barranca del Cupatitzio (Área de montaña), Uruapan, Michoacán, México." was published by new publisher "Instituto de Ecología A.C. Centro Regional del Bajío". 
-- Four new publishers: "Universidad Michoacana de San Nicolás de Hidalgo Facultad de Biología"", "Instituto de Ecología A.C. Centro Regional del Bajío", ""Universidad Autónoma de Aguascalientes", and "ECA Liquefaction S. de R.L. de C.V." ECA is a company of private sector."
+- Four new publishers: "Universidad Michoacana de San Nicolás de Hidalgo Facultad de Biología", "Instituto de Ecología A.C. Centro Regional del Bajío", "Universidad Autónoma de Aguascalientes", and "ECA Liquefaction S. de R.L. de C.V." ECA is a company of private sector."
 - Increase number of occurrence records, checklist and national publishers.
 
 ==== Netherlands
@@ -538,7 +539,7 @@ BHL participates in node activities and has hired a Data Manager to represent as
 
 ==== Brazil
 
-We have carried out a large number of virtual training courses and workshops, improved the templates and tutorial videos available on the https://sibbr.gov.br/page/publique-conjunto-dados.html [SiBBr website^], created a https://github.com/sibbr/DarwinCoreBrasil[GitHub^] page to discuss good practices in the use of DarwinCore terms and metadata of collections and projects. We have developed support tools for structuring ecological data. Furthermore, all IPTs were migrated to the cloud and updated to the latest version. Furthermore, we have strengthened the partnership with GBIFPortugal and other Latin American countries after CESP projects as well as Brazil’s participation in meetings held in Canberra.
+We have carried out a large number of virtual training courses and workshops, improved the templates and tutorial videos available on the https://sibbr.gov.br/page/publique-conjunto-dados.html[SiBBr website^], created a https://github.com/sibbr/DarwinCoreBrasil[GitHub^] page to discuss good practices in the use of DarwinCore terms and metadata of collections and projects. We have developed support tools for structuring ecological data. Furthermore, all IPTs were migrated to the cloud and updated to the latest version. Furthermore, we have strengthened the partnership with GBIFPortugal and other Latin American countries after CESP projects as well as Brazil’s participation in meetings held in Canberra.
 
 ==== Cameroon
 
@@ -635,9 +636,8 @@ Collaboration with other nodes (in Africa, or France) is also envisaged.
 
 - Continue to collaborate with other nodes on capacity development
 - Hosting datasets of publishers without technical capabilities
-- Participation in the CESP ""Improving GRSciColl records and the visibility of Latin American Natural Science Collections
-
-Continue with training and engagement to strengthen and expand national data publication and use.
+- Participation in the CESP "Improving GRSciColl records and the visibility of Latin American Natural Science Collections"
+- Continue with training and engagement to strengthen and expand national data publication and use.
 
 ==== Netherlands
 
@@ -767,9 +767,11 @@ Drive data standards development: An ALA staff member is now the Chair of the TD
 ==== Belgium
 
 Achieved in 2023:
+
 * Maintain GBIF Registry and GRSciColl
 
 Not achieved or postponed:
+
 * Support for the unified model (use cases)
 
 ==== Benin
