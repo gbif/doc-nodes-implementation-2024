@@ -193,7 +193,7 @@ We are working on DOIS to our MCPD data.
 
 - We maintain our core activities (operations) focused on increasing biodiversity data coming from Spanish institutions and projects, and promoting GBIF-mediated data usage. This year we plan to prioritize data coming from the private sector and data related to areas relevant in conservation and ecosystem services as soil and freshwater biodiversity.  
 - The 2024 training plan includes two workshops focused on modelling and data cleaning for data modelling. 
-- We plan to develop during 2024 some specialized views of GBIF data in https://datos.gbif.es[our data portal^] addressing specific communities (ecologists, managers, schools)."
+- We plan to develop during 2024 some specialized views of GBIF data in https://datos.gbif.es[our data portal^] addressing specific communities (ecologists, managers, schools).
 
 ==== Sweden
 
@@ -892,7 +892,7 @@ SANBI-GBIF implements a hosted portal, and has supported the new data model thro
 ==== Spain
 
 - We have been working hard re-working our metadata infrastructure, with which we manage a number of core items in our activity: datasets, with all its metadata elements, publication events and quality indicators, the national registry of biodiversity collections and datasets (connected to GRSciColl), training events, news, etc.
-- We have been working on our implementation of the ALA's spatial portal. Not yet ready for prime time, but mostly working: [https://espacial.gbif.es/?lang=es^]
+- We have been working on our implementation of the https://espacial.gbif.es/?lang=es[ALA's spatial portal^]. Not yet ready for prime time, but mostly working.
 - We are actively involved in standard development through our participation in TDWG. Currently, we are leading two standard developments:
 * https://www.tdwg.org/community/species/plinian-core/[Plinian core  for species-level information^] 
 * https://www.tdwg.org/community/geoschemes/Geoschemes [for area-based species distribution recording^]
