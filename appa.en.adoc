@@ -397,22 +397,20 @@ Développer le partenariat avec des institutions publiques et privées. Prospect
 
 ===== Activity 2.1
 
-- NLBIF aims to increase the relevance of Dutch biodiversity data for CBD indicators through engagement with relevant stakeholders in the Netherlands.
-- NLBIF aims to establish connections with the national focal points for the CBD, CMS, CITES and Ramsar.
+- Through the collaborations with KPMG and BNP Paribas via NLBIF's host institute Naturalis Biodiversity Center NLBIF focuses on GBF 'Target 15 business disclosures' to mobilise biodiversity data from the private sector to GBIF.
 
 ===== Activity 2.2
 
-NLBIF aims to link Dutch data publishers that hold marine biodiversity data that is currently shared through the https://www.informatiehuismarien.nl/uk/[Informatiehuis Marien^] to GBIF.
+- Strengthen the ties with the Dutch ministries to ensure that NLBIF will become a regular sparring partner earlier in the process of policy making.
 
 ===== Activity 2.3
 
-- NLBIF is working on mobilising species list with protected species according Dutch and EU laws to COL CheckListBank to increase the policy relevance of GBIF mediated biodiversity data.
-- NLBIF aims to become active in mobilising data from Environmental Impact Assessment that are commisioned by governmental organisations and financial institutions.
-- NLBIF collaborates on a Biodiversa  application which currently is pending decision.
+- NLBIF is part of a larger Dutch Biodiversity Monitoring proposal that will be further defined in 2024.
+- Through the strengthened ties with the Dutch ministries NLBIF aims to contribute to the science-policy discussion in the Netherlands.
 
 ===== Activity 2.4
 
-NLBIF is trying to establish connections with Dutch Investment Companies to mobilise biodiversity data under the implementation of the Equator Principles.
+- NLBIF is through its host institute involved in partnerships with KPMG and BNP Paribas where businesses are advised on assessing their impacts and dependencies on biodiversity making use of GBIF mediated data. In the process, businesses are encouraged and assisted to share their biodiversity data with GBIF where possible.
 
 ==== New Zealand
 
@@ -643,16 +641,24 @@ Collaboration with other nodes (in Africa, or France) is also envisaged.
 
 ===== Activity 3.1
 
-Report on the economic evaluation of the GBIF network at the annual NLBIF stakeholder event which is scheduled for march 7.
+- Present the Deloitte report at the annual NLBIF event.
+- Promote the use of GBIF data by the private and financial sectors through CSRD and TNFD reporting activities.
+- Use the new derived dataset DOIs in forthcoming data papers.
 
 ==== Activity 3.2
 
-Within the Dutch landscape there is an urgent need for guidance on publishing sensitive species data.
+- Disseminatie the ""Current Best Practices for Generalizing Sensitive Species Occurrence Data"".
+- Implement the new data model as soon as it comes available and update the manual for Dutch data publishers.
+
+==== Activity 3.3
+
+- Together with GBIF Norway we aim to organise the GBIF ECA meeting at the Balkans and open up this event for stakeholders from te region to facilitate the expansion of GBIF to new countries within Europe.
+- Through two ECA regional support officers located in Bulgaria and Latvia we aim to further expa nd the GBIF activities towards eastern and south eastern Europe.
 
 ==== Activity 3.4
 
-- The Dutch node aims to continue the collaboration with Indonesian partners in the BIFA programme and with stakeholders from the Dutch overseas areas in the Caraiben in the BID programme.
-- Engage with partners in the Biodiversity Genomics Europe project and the Dutch ARISE project on the training on the mobilisation of DNA derived data to GBIF."
+- Organise a GBIF data mobilisation workshop aligned with the scheduled ECA meeting at the Balkans.
+- Explore opportunities for a CESP application.
 
 ==== New Zealand
 
@@ -860,20 +866,26 @@ Improve data quality and diversify data for users (researchers, policy makers, s
 
 ==== Netherlands
 
+===== Activity 4.1
+
+- Advocate the wider use of ChecklistBank
+- Include COL and ChecklistBank in EU funded biodiversity projects.
+- Promote the use of rgbif and pygbif
+
 ===== Activity 4.2
 
-NLBIF will continue to curate the GRSciColl records from Dutch DiSSCo partners and assist in the further mobilisation of specimen derived data to GBIF.
+- NLBIF will continue to curate the GRSciColl records from Dutch DiSSCo partners and assist in the further mobilisation of specimen derived data to GBIF.
+- Promote the use use of standardized values, including vocabularies.
 
 ===== Activity 4.3
 
-NLBIF is looking forward to:
-- the implementation of the Latimer Core.
-- the material catalogue to capture specimen information.
-- annotation services.
+- NLBIF is looking for data publishers that hold sampling event datasets to implement the new Humboldt extension.
+- Implement the Latimer Core for specimen based datasets hosted by NLBIF's host institute Naturalis Biodiversity Center.
 
-====== Activity 4.4
 
-NLBIF is looking forward to upload species lists to COL CheckListBank using the GBIF IPT.
+===== Activity 4.4
+
+- Assist in testing of the data publishing models for specimen data with community members in the capacity of DiSSCo-NL National Node representative.
 
 ==== New Zealand
 
