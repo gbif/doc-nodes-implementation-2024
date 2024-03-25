@@ -511,7 +511,6 @@ Develop capacity and skills: ALA will continue to develop training modules appli
 Ongoing activities: 
 Australia will host the GB30 and biennial Global nodes meetings in October this year, in Canberra. This will provide a valuable opportunity to introduce international delegates to Australia and we will be very pleased to offer the opportunity to extend networks and support GBIF nodes and partners. GB30 and the Global nodes meeting will be held in the week after TDWG2023, also planned for Australia. We hope that delegates will take the opportunity to make the most of long flights and participate fully in both meetings. 
 
-
 ==== Belgium
 
 Achieved in 2023: 
@@ -645,17 +644,17 @@ Collaboration with other nodes (in Africa, or France) is also envisaged.
 - Promote the use of GBIF data by the private and financial sectors through CSRD and TNFD reporting activities.
 - Use the new derived dataset DOIs in forthcoming data papers.
 
-==== Activity 3.2
+===+= Activity 3.2
 
 - Disseminatie the ""Current Best Practices for Generalizing Sensitive Species Occurrence Data"".
 - Implement the new data model as soon as it comes available and update the manual for Dutch data publishers.
 
-==== Activity 3.3
+===== Activity 3.3
 
 - Together with GBIF Norway we aim to organise the GBIF ECA meeting at the Balkans and open up this event for stakeholders from te region to facilitate the expansion of GBIF to new countries within Europe.
 - Through two ECA regional support officers located in Bulgaria and Latvia we aim to further expa nd the GBIF activities towards eastern and south eastern Europe.
 
-==== Activity 3.4
+===== Activity 3.4
 
 - Organise a GBIF data mobilisation workshop aligned with the scheduled ECA meeting at the Balkans.
 - Explore opportunities for a CESP application.
@@ -667,7 +666,8 @@ Collaboration with other nodes (in Africa, or France) is also envisaged.
 - Presentation on GBIF to the New Zealand regional government Data Special Interest Group to promote potential of the GBIF infrastructure to support the data needs of their organisations.
 
 ==== Nordic Genetic Resource Center
--We are communicating within the field of GBIF
+
+- We are communicating within the field of GBIF
 
 ==== Poland
 
@@ -774,11 +774,11 @@ Drive data standards development: An ALA staff member is now the Chair of the TD
 
 Achieved in 2023:
 
-* Maintain GBIF Registry and GRSciColl
+- Maintain GBIF Registry and GRSciColl
 
 Not achieved or postponed:
 
-* Support for the unified model (use cases)
+- Support for the unified model (use cases)
 
 ==== Benin
 
@@ -798,7 +798,7 @@ IPT installation updated and running for publishing partners.
 
 ==== Chinese Academy of Sciences
 
-1.Training of GBIF portal tools and projects like rgbif, pyGBIF and hosted portal.
+1. Training of GBIF portal tools and projects like rgbif, pyGBIF and hosted portal.
 
 ==== Chinese Taipei
 
@@ -819,6 +819,7 @@ IPT installation updated and running for publishing partners.
 
 The Node has actively been working on the development and strengthening of the national biodiversity data platform BiodataCR that will greatly contribute to the growth in data publication and use. The Node of Costa Rica, from CONAGEBIO, is strengthening the publication of data coming from citizen science, specially trough the agreement CONAGEBIO-iNaturalist.
 
+[[croatia-4]]
 ==== Croatia, Republic of
 
 Development of national biodiversity database, based on Atlas of Living Australia, started in 2023. 
@@ -851,8 +852,8 @@ Maintained and promoted use of of Ireland’s biodiversity mapping portal ‘Bio
 
 ==== Madagascar
 
-Search for funding for the acquisition of powerful computer equipment
-Improve data quality and diversify data for users (researchers, policy makers, students, NGOs etc...)
+- Search for funding for the acquisition of powerful computer equipment
+- Improve data quality and diversify data for users (researchers, policy makers, students, NGOs etc...)
 
 ==== Mauritania
 
@@ -908,8 +909,8 @@ SANBI-GBIF implements a hosted portal, and has supported the new data model thro
 - We have been working hard re-working our metadata infrastructure, with which we manage a number of core items in our activity: datasets, with all its metadata elements, publication events and quality indicators, the national registry of biodiversity collections and datasets (connected to GRSciColl), training events, news, etc.
 - We have been working on our implementation of the https://espacial.gbif.es/?lang=es[ALA's spatial portal^]. Not yet ready for prime time, but mostly working.
 - We are actively involved in standard development through our participation in TDWG. Currently, we are leading two standard developments:
-* https://www.tdwg.org/community/species/plinian-core/[Plinian core  for species-level information^] 
-* https://www.tdwg.org/community/geoschemes/Geoschemes [for area-based species distribution recording^]
+  - https://www.tdwg.org/community/species/plinian-core/[Plinian core  for species-level information^]
+  - https://www.tdwg.org/community/geoschemes/Geoschemes [Area-based species distribution recording^]
 - Besides, we are involved in other TDWG activities (participation in other task and Interests groups, organizing symposia, etc.)
 - In collaboration with SANBI (GBIF South Africa) and within the framework of a CESP project, we designed, developed and carried out a first edition of a workshop  focused on exploring ways of enabling mining of data and identification of key tools, techniques and approaches that can be used to ask some pertinent research questions related to time, space and taxonomy.
 
